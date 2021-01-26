@@ -1,0 +1,15 @@
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/process/dbh.php on line 8
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 13
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 14
+[07-Sep-2020 16:48:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 15
+[07-Sep-2020 16:48:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 16
+[07-Sep-2020 16:48:20 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 17
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 28
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 29
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 30
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 31
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 384
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 430
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 475
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/index.php on line 522
+[07-Sep-2020 16:48:20 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y3vtt6bmlvnd/public_html/succortechnologies.com/employee/html/process/dbh.php on line 8
